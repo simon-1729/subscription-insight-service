@@ -1,4 +1,4 @@
-package com.simon.domain;
+package com.simon.subscription.domain;
 
 import java.time.LocalDateTime;
 import java.util.UUID;

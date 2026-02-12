@@ -30,8 +30,8 @@ public class Subscription {
     @JoinColumn(name = "customer_id")
     private Customer customer;
 
-    private String planType;
-    private String status;
+    private PlanType planType;
+    private SubscriptionStatus status;
 
     private LocalDate startDate;
     private LocalDate renewalDate;

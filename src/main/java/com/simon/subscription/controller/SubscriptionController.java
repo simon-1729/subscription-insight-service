@@ -1,32 +1,32 @@
 package com.simon.subscription.controller;
 
+import org.springframework.web.bind.annotation.PostMapping;
+import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
-import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.simon.subscription.domain.Subscription;
+import com.simon.subscription.dto.request.CreateSubscriptionRequest;
+import com.simon.subscription.dto.response.SubscriptionResponse;
 import com.simon.subscription.service.SubscriptionService;
 
 import lombok.RequiredArgsConstructor;
 
-import java.util.UUID;
-
-import org.springframework.web.bind.annotation.PostMapping;
-
 
 @RestController
-@RequestMapping("/subscriptions")
 @RequiredArgsConstructor
+@RequestMapping("/subscriptions")
 public class SubscriptionController {
 
     private final SubscriptionService subscriptionService;
 
     @PostMapping
-    public Subscription createSubscription(
-        @RequestParam UUID customerId,
-        @RequestParam String planType) {
+    public SubscriptionResponse createSubscription(@RequestBody 
+        CreateSubscriptionRequest request) {
 
-        return subscriptionService.createSubscription(customerId, planType);
-    }    
+        return subscriptionService.createSubscription(
+            request.customerId(), 
+            request.planType()
+        );
+    }      
 
 }

@@ -1,8 +1,9 @@
 package com.simon.subscription.dto.request;
 
+import jakarta.validation.constraints.NotNull;
 
 public record CreateCustomerRequest(
-        String email,
-        String firstName,
-        String lastName
+    @NotNull String email,
+    @NotNull String firstName,
+    @NotNull String lastName
 ) {}

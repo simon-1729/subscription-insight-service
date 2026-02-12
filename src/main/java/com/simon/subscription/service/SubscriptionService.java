@@ -6,7 +6,11 @@ import java.util.UUID;
 import org.springframework.stereotype.Service;
 
 import com.simon.subscription.domain.Customer;
+import com.simon.subscription.domain.PlanType;
 import com.simon.subscription.domain.Subscription;
+import com.simon.subscription.domain.SubscriptionStatus;
+import com.simon.subscription.dto.response.SubscriptionResponse;
+import com.simon.subscription.mapper.SubscriptionMapper;
 import com.simon.subscription.repository.CustomerRepository;
 import com.simon.subscription.repository.SubscriptionRepository;
 
@@ -18,8 +22,9 @@ public class SubscriptionService {
 
     private final SubscriptionRepository subscriptionRepository;
     private final CustomerRepository customerRepository;
+    private final SubscriptionMapper subscriptionMapper;
 
-    public Subscription createSubscription(UUID customerId, String planType) {
+    public SubscriptionResponse createSubscription(UUID customerId, PlanType planType) {
         // Fetch the customer from the database
         Customer customer = customerRepository.findById(customerId)
                 .orElseThrow(() -> new RuntimeException("Customer not found"));
@@ -28,13 +33,16 @@ public class SubscriptionService {
         Subscription subscription = Subscription.builder()
                 .customer(customer)
                 .planType(planType)
-                .status("ACTIVE")
+                .status(SubscriptionStatus.ACTIVE)
                 .startDate(LocalDate.now())
                 .renewalDate(LocalDate.now().plusMonths(1))
                 .build();
 
         // Save the subscription to the database
-        return subscriptionRepository.save(subscription);
+       subscriptionRepository.save(subscription);
+
+       // Return DTO response
+       return subscriptionMapper.mapperToResponse(subscription);
     }
 
 }

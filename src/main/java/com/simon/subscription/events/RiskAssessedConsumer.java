@@ -12,6 +12,6 @@ public class RiskAssessedConsumer {
     )
     public void consumeRiskAssessed(String msg) {
         // TODO: Process the message and update the subscription usage accordingly
-        System.out.println("Received risk-assessed msg: " + msg);
+        System.out.println("RECEIVED msg: " + msg);
     }
 }

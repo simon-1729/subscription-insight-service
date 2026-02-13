@@ -4,6 +4,7 @@ package com.simon.subscription.controller;
 import java.util.UUID;
 
 import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
@@ -12,6 +13,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 import com.simon.subscription.dto.request.CreateCustomerRequest;
 import com.simon.subscription.dto.response.CustomerResponse;
+import com.simon.subscription.kafka.UsageEventProducer;
 import com.simon.subscription.service.CustomerService;
 
 import lombok.RequiredArgsConstructor;
@@ -23,6 +25,7 @@ import lombok.RequiredArgsConstructor;
 public class CustomerController {
 
     private final CustomerService customerService;
+
 
     @PostMapping
     public CustomerResponse createCustomer(@RequestBody CreateCustomerRequest request) {
@@ -36,8 +39,7 @@ public class CustomerController {
 
     @GetMapping
     public CustomerResponse getCustomer(@RequestParam UUID id) {
-        
         return customerService.getCustomer(id);
-    }    
+    }
 
 }

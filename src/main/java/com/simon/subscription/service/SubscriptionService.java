@@ -10,9 +10,6 @@ import com.simon.subscription.domain.PlanType;
 import com.simon.subscription.domain.Subscription;
 import com.simon.subscription.domain.SubscriptionStatus;
 import com.simon.subscription.dto.response.SubscriptionResponse;
-import com.simon.subscription.events.EventType;
-import com.simon.subscription.events.UsageEvent;
-import com.simon.subscription.kafka.UsageEventProducer;
 import com.simon.subscription.mapper.SubscriptionMapper;
 import com.simon.subscription.repository.CustomerRepository;
 import com.simon.subscription.repository.SubscriptionRepository;
@@ -23,7 +20,6 @@ import lombok.RequiredArgsConstructor;
 @RequiredArgsConstructor
 public class SubscriptionService {
 
-    private final UsageEventProducer usageEventProducer;
     private final SubscriptionRepository subscriptionRepository;
     private final CustomerRepository customerRepository;
     private final SubscriptionMapper subscriptionMapper;
@@ -47,18 +43,6 @@ public class SubscriptionService {
 
        // Return DTO response
        return subscriptionMapper.mapperToResponse(subscription);
-    }
-
-    public void publishMockUsageEvent(UUID subscriptionId) {
-        UsageEvent event = UsageEvent.builder()
-            .eventId(UUID.randomUUID())
-            .subscriptionId(subscriptionId)
-            .eventType(EventType.USAGE_REPORTED)
-            .timestamp(java.time.Instant.now())
-            .details("Mock usage event for subscription ID: " + subscriptionId)
-            .build();
-
-        usageEventProducer.sendUsageEvent(event);
     }
 
 }

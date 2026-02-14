@@ -1,4 +1,4 @@
-package com.simon.subscription.events;
+package com.simon.subscription.messaging.events;
 
 import java.time.Instant;
 import java.util.UUID;

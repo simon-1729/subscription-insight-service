@@ -12,6 +12,7 @@ import org.springframework.web.bind.annotation.RestController;
 import com.simon.subscription.dto.request.CreateSubscriptionRequest;
 import com.simon.subscription.dto.response.SubscriptionResponse;
 import com.simon.subscription.service.SubscriptionService;
+import com.simon.subscription.service.UsageEventService;
 
 import lombok.RequiredArgsConstructor;
 
@@ -22,6 +23,7 @@ import lombok.RequiredArgsConstructor;
 public class SubscriptionController {
 
     private final SubscriptionService subscriptionService;
+    private final UsageEventService UsageEventService;
 
     @PostMapping
     public SubscriptionResponse createSubscription(@RequestBody 
@@ -35,6 +37,6 @@ public class SubscriptionController {
 
     @GetMapping("/mock/{subscriptionId}")
     public void publishMockUsageEvent(@PathVariable UUID subscriptionId) {
-        subscriptionService.publishMockUsageEvent(subscriptionId);
+        UsageEventService.publishMockUsageEvent(subscriptionId);
     }
 }

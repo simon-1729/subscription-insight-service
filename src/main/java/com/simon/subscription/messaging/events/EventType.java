@@ -1,4 +1,4 @@
-package com.simon.subscription.events;
+package com.simon.subscription.messaging.events;
 
 public enum EventType {
     SUBSCRIPTION_CREATED,

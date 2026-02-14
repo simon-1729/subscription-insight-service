@@ -1,9 +1,10 @@
-package com.simon.subscription.kafka;
+package com.simon.subscription.messaging.kafka.producer;
 
 import org.springframework.kafka.core.KafkaTemplate;
 import org.springframework.stereotype.Service;
 
-import com.simon.subscription.events.UsageEvent;
+import com.simon.subscription.messaging.events.Topics;
+import com.simon.subscription.messaging.events.UsageEvent;
 
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;

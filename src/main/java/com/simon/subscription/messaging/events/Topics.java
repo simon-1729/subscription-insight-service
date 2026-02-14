@@ -1,4 +1,4 @@
-package com.simon.subscription.kafka;
+package com.simon.subscription.messaging.events;
 
 public enum Topics {
     USAGE_TOPIC("usage-topic"),

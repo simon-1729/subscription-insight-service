@@ -21,7 +21,11 @@ spring:
       value-serializer: org.springframework.kafka.support.serializer.JsonSerializer
 
     consumer:
-      value-deserializer: org.apache.kafka.common.serialization.StringDeserializer
+      key-deserializer: org.apache.kafka.common.serialization.StringDeserializer
+      value-deserializer: org.springframework.kafka.support.serializer.JacksonJsonDeserializer
+      properties:
+        "[spring.json.trusted.packages]": com.simon.subscription.messaging.events
+        "[spring.json.value.default.type]": com.simon.subscription.messaging.events.UsageEvent
 
 logging:
   level:

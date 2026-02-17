@@ -4,15 +4,62 @@
   "source": "https://excalidraw.com",
   "elements": [
     {
+<<<<<<< Updated upstream
 <<<<<<< HEAD
+=======
+      "id": "nUC3ejXP4LDpzX4n8TUNN",
+      "type": "rectangle",
+      "x": 658.8815988277106,
+      "y": 66.28643381066139,
+      "width": 267.20856439499613,
+      "height": 233.51384480794277,
+      "angle": 0,
+      "strokeColor": "#343a40",
+      "backgroundColor": "#fff5f5",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 0,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "b4j",
+      "roundness": {
+        "type": 3
+      },
+      "seed": 639226597,
+      "version": 1017,
+      "versionNonce": 1107844389,
+      "isDeleted": false,
+      "boundElements": [
+        {
+          "id": "g9H1s_pIaw5jjy-_MTA6I",
+          "type": "arrow"
+        },
+        {
+          "id": "CkIa5yCGJ8t-IhRLrEPZ8",
+          "type": "arrow"
+        },
+        {
+          "id": "SR19Jw3NHCx_5gdaMHHEa",
+          "type": "arrow"
+        }
+      ],
+      "updated": 1771365522322,
+      "link": null,
+      "locked": false
+    },
+    {
+>>>>>>> Stashed changes
       "id": "zp5IL7NhEvaipcYVOP4b3",
       "type": "rectangle",
-      "x": 383.01399993896484,
-      "y": 167.80805206298825,
-      "width": 162.57903289794925,
+      "x": 336.6099189892894,
+      "y": 150.93750192305092,
+      "width": 103.25431060791013,
       "height": 80.44304656982423,
       "angle": 0,
       "strokeColor": "#1e1e1e",
+<<<<<<< Updated upstream
       "backgroundColor": "#ffec99",
 =======
       "id": "nUC3ejXP4LDpzX4n8TUNN",
@@ -68,6 +115,9 @@
       "strokeColor": "#1e1e1e",
       "backgroundColor": "#a5d8ff",
 >>>>>>> cfd0510 (Updated system diagram)
+=======
+      "backgroundColor": "#a5d8ff",
+>>>>>>> Stashed changes
       "fillStyle": "solid",
       "strokeWidth": 2,
       "strokeStyle": "solid",
@@ -80,6 +130,7 @@
         "type": 3
       },
       "seed": 1186260340,
+<<<<<<< Updated upstream
 <<<<<<< HEAD
       "version": 602,
       "versionNonce": 1432333572,
@@ -87,11 +138,16 @@
       "version": 948,
       "versionNonce": 963544773,
 >>>>>>> cfd0510 (Updated system diagram)
+=======
+      "version": 948,
+      "versionNonce": 963544773,
+>>>>>>> Stashed changes
       "isDeleted": false,
       "boundElements": [
         {
           "id": "JbRUd5xsuRmVeMyVlgOIy",
           "type": "arrow"
+<<<<<<< Updated upstream
 <<<<<<< HEAD
         }
       ],
@@ -109,10 +165,24 @@
       ],
       "updated": 1771365305115,
 >>>>>>> cfd0510 (Updated system diagram)
+=======
+        },
+        {
+          "id": "0JQQiGkD9Yh2dXxjGWnfO",
+          "type": "arrow"
+        },
+        {
+          "id": "SR19Jw3NHCx_5gdaMHHEa",
+          "type": "arrow"
+        }
+      ],
+      "updated": 1771365305115,
+>>>>>>> Stashed changes
       "link": null,
       "locked": false
     },
     {
+<<<<<<< Updated upstream
 <<<<<<< HEAD
       "id": "k244K8L8XHs9tnuzQ5Kmj",
       "type": "line",
@@ -169,6 +239,12 @@
       "x": 1166.6725313008048,
       "y": 93.33768458643536,
 >>>>>>> cfd0510 (Updated system diagram)
+=======
+      "id": "04mUm9XumXggz66wObahK",
+      "type": "rectangle",
+      "x": 1166.6725313008048,
+      "y": 93.33768458643536,
+>>>>>>> Stashed changes
       "width": 142.35526216947116,
       "height": 82.61992435601934,
       "angle": 0,
@@ -186,6 +262,7 @@
         "type": 3
       },
       "seed": 485382220,
+<<<<<<< Updated upstream
 <<<<<<< HEAD
       "version": 970,
       "versionNonce": 1426041227,
@@ -193,6 +270,10 @@
       "version": 1171,
       "versionNonce": 479685675,
 >>>>>>> cfd0510 (Updated system diagram)
+=======
+      "version": 1171,
+      "versionNonce": 479685675,
+>>>>>>> Stashed changes
       "isDeleted": false,
       "boundElements": [
         {
@@ -202,6 +283,7 @@
         {
           "id": "ErH72QXSjVLyvk7ToKqG7",
           "type": "arrow"
+<<<<<<< Updated upstream
 <<<<<<< HEAD
         }
       ],
@@ -215,12 +297,22 @@
       ],
       "updated": 1771363551300,
 >>>>>>> cfd0510 (Updated system diagram)
+=======
+        },
+        {
+          "id": "VoAOPFjEMNONc8FYDRVEZ",
+          "type": "arrow"
+        }
+      ],
+      "updated": 1771363551300,
+>>>>>>> Stashed changes
       "link": null,
       "locked": false
     },
     {
       "id": "wjtq9f__6Kf7S5xHgQDR1",
       "type": "text",
+<<<<<<< Updated upstream
 <<<<<<< HEAD
       "x": 1107.0917274335384,
       "y": 69.48133453509979,
@@ -228,6 +320,10 @@
       "x": 1173.3635415569147,
       "y": 110.92792520639134,
 >>>>>>> cfd0510 (Updated system diagram)
+=======
+      "x": 1173.3635415569147,
+      "y": 110.92792520639134,
+>>>>>>> Stashed changes
       "width": 132.26686096191406,
       "height": 47.05529882097263,
       "angle": 0,
@@ -243,6 +339,7 @@
       "index": "b4t",
       "roundness": null,
       "seed": 1768719052,
+<<<<<<< Updated upstream
 <<<<<<< HEAD
       "version": 719,
       "versionNonce": 857708651,
@@ -256,6 +353,13 @@
       "boundElements": [],
       "updated": 1771363410584,
 >>>>>>> cfd0510 (Updated system diagram)
+=======
+      "version": 918,
+      "versionNonce": 1187182789,
+      "isDeleted": false,
+      "boundElements": [],
+      "updated": 1771363410584,
+>>>>>>> Stashed changes
       "link": null,
       "locked": false,
       "text": "Insight Engine\n  (Service)",
@@ -271,17 +375,23 @@
     {
       "id": "L7uO4BsBwPl71rknIupXN",
       "type": "text",
+<<<<<<< Updated upstream
 <<<<<<< HEAD
       "x": 407.47383148181257,
       "y": 186.3406982421875,
       "width": 105.75311279296875,
       "height": 67.15198516845705,
 =======
+=======
+>>>>>>> Stashed changes
       "x": 342.9201755176965,
       "y": 172.03225804097494,
       "width": 92.54095992540849,
       "height": 58.76242319742842,
+<<<<<<< Updated upstream
 >>>>>>> cfd0510 (Updated system diagram)
+=======
+>>>>>>> Stashed changes
       "angle": 0,
       "strokeColor": "#1e1e1e",
       "backgroundColor": "transparent",
@@ -295,20 +405,21 @@
       "index": "b4u",
       "roundness": null,
       "seed": 1965726156,
+<<<<<<< Updated upstream
 <<<<<<< HEAD
       "version": 601,
       "versionNonce": 358894524,
+=======
+      "version": 852,
+      "versionNonce": 1017129003,
+>>>>>>> Stashed changes
       "isDeleted": false,
-      "boundElements": [
-        {
-          "id": "62LYpVWuDUvFOzpWW1agF",
-          "type": "arrow"
-        }
-      ],
-      "updated": 1771196387247,
+      "boundElements": [],
+      "updated": 1771365287962,
       "link": null,
       "locked": false,
       "text": "Subscription\n (Service)\n",
+<<<<<<< Updated upstream
       "fontSize": 17.90719604492188,
 =======
       "version": 852,
@@ -321,6 +432,9 @@
       "text": "Subscription\n (Service)\n",
       "fontSize": 15.66997951931423,
 >>>>>>> cfd0510 (Updated system diagram)
+=======
+      "fontSize": 15.66997951931423,
+>>>>>>> Stashed changes
       "fontFamily": 5,
       "textAlign": "left",
       "verticalAlign": "top",
@@ -332,6 +446,7 @@
     {
       "id": "QLxO7Zt6pVRsaGmvAEeWm",
       "type": "rectangle",
+<<<<<<< Updated upstream
 <<<<<<< HEAD
       "x": 596.5532512405879,
       "y": 205.28904644720154,
@@ -339,6 +454,10 @@
       "x": 569.5085086214383,
       "y": 232.3817511998703,
 >>>>>>> cfd0510 (Updated system diagram)
+=======
+      "x": 569.5085086214383,
+      "y": 232.3817511998703,
+>>>>>>> Stashed changes
       "width": 36.253540039062486,
       "height": 22.787643432617188,
       "angle": 0,
@@ -356,20 +475,22 @@
         "type": 3
       },
       "seed": 542010868,
+<<<<<<< Updated upstream
 <<<<<<< HEAD
       "version": 654,
       "versionNonce": 389258091,
+=======
+      "version": 975,
+      "versionNonce": 1523100581,
+>>>>>>> Stashed changes
       "isDeleted": false,
       "boundElements": [
         {
-          "id": "x13J6k_NSG2CnHJgu167P",
-          "type": "arrow"
-        },
-        {
-          "id": "QwymGnGIKup3x2Az26q1z",
+          "id": "0JQQiGkD9Yh2dXxjGWnfO",
           "type": "arrow"
         }
       ],
+<<<<<<< Updated upstream
       "updated": 1771351926400,
 =======
       "version": 975,
@@ -383,12 +504,16 @@
       ],
       "updated": 1771365313665,
 >>>>>>> cfd0510 (Updated system diagram)
+=======
+      "updated": 1771365313665,
+>>>>>>> Stashed changes
       "link": null,
       "locked": false
     },
     {
       "id": "a483x4kIhMQ341aW46U45",
       "type": "line",
+<<<<<<< Updated upstream
 <<<<<<< HEAD
       "x": 597.7027712227963,
       "y": 206.29620544396846,
@@ -396,6 +521,10 @@
       "x": 569.9478845606778,
       "y": 235.1235875464205,
 >>>>>>> cfd0510 (Updated system diagram)
+=======
+      "x": 569.9478845606778,
+      "y": 235.1235875464205,
+>>>>>>> Stashed changes
       "width": 16.202080636221027,
       "height": 10.848499041444926,
       "angle": 0,
@@ -413,6 +542,7 @@
         "type": 2
       },
       "seed": 632590196,
+<<<<<<< Updated upstream
 <<<<<<< HEAD
       "version": 400,
       "versionNonce": 566376531,
@@ -426,6 +556,13 @@
       "boundElements": [],
       "updated": 1771364579082,
 >>>>>>> cfd0510 (Updated system diagram)
+=======
+      "version": 572,
+      "versionNonce": 2055211813,
+      "isDeleted": false,
+      "boundElements": [],
+      "updated": 1771364579082,
+>>>>>>> Stashed changes
       "link": null,
       "locked": false,
       "points": [
@@ -447,6 +584,7 @@
     {
       "id": "tb0FpqLl-Si_cjkKI37sB",
       "type": "line",
+<<<<<<< Updated upstream
 <<<<<<< HEAD
       "x": 615.3464020781443,
       "y": 217.29282188819508,
@@ -454,6 +592,10 @@
       "x": 587.2837456406352,
       "y": 246.12020399064713,
 >>>>>>> cfd0510 (Updated system diagram)
+=======
+      "x": 587.2837456406352,
+      "y": 246.12020399064713,
+>>>>>>> Stashed changes
       "width": 15.768316455434546,
       "height": 10.721938821693795,
       "angle": 0,
@@ -471,6 +613,7 @@
         "type": 2
       },
       "seed": 752517364,
+<<<<<<< Updated upstream
 <<<<<<< HEAD
       "version": 403,
       "versionNonce": 605926899,
@@ -484,6 +627,13 @@
       "boundElements": [],
       "updated": 1771364579082,
 >>>>>>> cfd0510 (Updated system diagram)
+=======
+      "version": 574,
+      "versionNonce": 1996316293,
+      "isDeleted": false,
+      "boundElements": [],
+      "updated": 1771364579082,
+>>>>>>> Stashed changes
       "link": null,
       "locked": false,
       "points": [
@@ -503,6 +653,7 @@
       "polygon": false
     },
     {
+<<<<<<< Updated upstream
 <<<<<<< HEAD
       "id": "DIRPNIQQ73Ax823tkxoa7",
       "type": "rectangle",
@@ -732,6 +883,12 @@
       "x": 484.5538717431143,
       "y": 7.663760998012094,
 >>>>>>> cfd0510 (Updated system diagram)
+=======
+      "id": "S8tTE4I3WD9ms7Qhkkkm-",
+      "type": "rectangle",
+      "x": 484.5538717431143,
+      "y": 7.663760998012094,
+>>>>>>> Stashed changes
       "width": 142.88442611694336,
       "height": 68.88317108154297,
       "angle": 0,
@@ -749,6 +906,7 @@
         "type": 3
       },
       "seed": 1424110156,
+<<<<<<< Updated upstream
 <<<<<<< HEAD
       "version": 715,
       "versionNonce": 199832124,
@@ -756,6 +914,10 @@
       "version": 1235,
       "versionNonce": 476276101,
 >>>>>>> cfd0510 (Updated system diagram)
+=======
+      "version": 1235,
+      "versionNonce": 476276101,
+>>>>>>> Stashed changes
       "isDeleted": false,
       "boundElements": [
         {
@@ -771,17 +933,22 @@
           "type": "arrow"
         }
       ],
+<<<<<<< Updated upstream
 <<<<<<< HEAD
       "updated": 1771196917160,
 =======
       "updated": 1771364350833,
 >>>>>>> cfd0510 (Updated system diagram)
+=======
+      "updated": 1771364350833,
+>>>>>>> Stashed changes
       "link": null,
       "locked": false
     },
     {
       "id": "-hgQSlj9tTQaBwVOOgT9A",
       "type": "text",
+<<<<<<< Updated upstream
 <<<<<<< HEAD
       "x": 700.632450056306,
       "y": 48.72227379165895,
@@ -789,6 +956,10 @@
       "x": 503.8561235589102,
       "y": 17.10534653878358,
 >>>>>>> cfd0510 (Updated system diagram)
+=======
+      "x": 503.8561235589102,
+      "y": 17.10534653878358,
+>>>>>>> Stashed changes
       "width": 104.27992248535156,
       "height": 50,
       "angle": 0,
@@ -804,6 +975,7 @@
       "index": "b5K",
       "roundness": null,
       "seed": 1432844492,
+<<<<<<< Updated upstream
 <<<<<<< HEAD
       "version": 610,
       "versionNonce": 884215996,
@@ -817,6 +989,13 @@
       "boundElements": [],
       "updated": 1771364350833,
 >>>>>>> cfd0510 (Updated system diagram)
+=======
+      "version": 1130,
+      "versionNonce": 205941989,
+      "isDeleted": false,
+      "boundElements": [],
+      "updated": 1771364350833,
+>>>>>>> Stashed changes
       "link": null,
       "locked": false,
       "text": "Dashboard\n(React)",
@@ -832,17 +1011,23 @@
     {
       "id": "JbRUd5xsuRmVeMyVlgOIy",
       "type": "arrow",
+<<<<<<< Updated upstream
 <<<<<<< HEAD
       "x": 675.3094361299486,
       "y": 73.64480772136112,
       "width": 223.875555613897,
       "height": 89.75595031472649,
 =======
+=======
+>>>>>>> Stashed changes
       "x": 478.5331096325529,
       "y": 42.02788046848575,
       "width": 98.46957011830256,
       "height": 104.50232742766453,
+<<<<<<< Updated upstream
 >>>>>>> cfd0510 (Updated system diagram)
+=======
+>>>>>>> Stashed changes
       "angle": 0,
       "strokeColor": "#1e1e1e",
       "backgroundColor": "transparent",
@@ -856,6 +1041,7 @@
       "index": "b5L",
       "roundness": null,
       "seed": 233977460,
+<<<<<<< Updated upstream
 <<<<<<< HEAD
       "version": 1120,
       "versionNonce": 2115714803,
@@ -869,6 +1055,13 @@
       "boundElements": [],
       "updated": 1771364706141,
 >>>>>>> cfd0510 (Updated system diagram)
+=======
+      "version": 1982,
+      "versionNonce": 1266797989,
+      "isDeleted": false,
+      "boundElements": [],
+      "updated": 1771364706141,
+>>>>>>> Stashed changes
       "link": null,
       "locked": false,
       "points": [
@@ -877,6 +1070,7 @@
           0
         ],
         [
+<<<<<<< Updated upstream
 <<<<<<< HEAD
           -223.875555613897,
           0
@@ -892,6 +1086,14 @@
           -98.46957011830256,
           104.50232742766453
 >>>>>>> cfd0510 (Updated system diagram)
+=======
+          -98.46957011830256,
+          0
+        ],
+        [
+          -98.46957011830256,
+          104.50232742766453
+>>>>>>> Stashed changes
         ]
       ],
       "startBinding": {
@@ -918,6 +1120,7 @@
       "endIsSpecial": null
     },
     {
+<<<<<<< Updated upstream
 <<<<<<< HEAD
       "id": "Zstp19HRmGr_fb66Hh6-d",
       "type": "ellipse",
@@ -1046,6 +1249,8 @@
     {
 =======
 >>>>>>> cfd0510 (Updated system diagram)
+=======
+>>>>>>> Stashed changes
       "id": "Klsipgaw8bvmi_yTZrQia",
       "type": "freedraw",
       "x": 568.6415481567383,
@@ -1134,6 +1339,7 @@
       "simulatePressure": true
     },
     {
+<<<<<<< Updated upstream
 <<<<<<< HEAD
       "id": "4ewBPjxeAMQnKOwZAWA43",
       "type": "line",
@@ -1239,6 +1445,12 @@
       "x": 487.9825484235173,
       "y": -223.783946946462,
 >>>>>>> cfd0510 (Updated system diagram)
+=======
+      "id": "3LaU8dqCX7wlS-EyHatps",
+      "type": "rectangle",
+      "x": 487.9825484235173,
+      "y": -223.783946946462,
+>>>>>>> Stashed changes
       "width": 139.71940782335056,
       "height": 80.63791184198288,
       "angle": 0,
@@ -1256,6 +1468,7 @@
         "type": 3
       },
       "seed": 154217588,
+<<<<<<< Updated upstream
 <<<<<<< HEAD
       "version": 884,
       "versionNonce": 652949564,
@@ -1263,6 +1476,10 @@
       "version": 1126,
       "versionNonce": 1118294181,
 >>>>>>> cfd0510 (Updated system diagram)
+=======
+      "version": 1126,
+      "versionNonce": 1118294181,
+>>>>>>> Stashed changes
       "isDeleted": false,
       "boundElements": [
         {
@@ -1274,17 +1491,22 @@
           "type": "arrow"
         }
       ],
+<<<<<<< Updated upstream
 <<<<<<< HEAD
       "updated": 1771196956606,
 =======
       "updated": 1771364356598,
 >>>>>>> cfd0510 (Updated system diagram)
+=======
+      "updated": 1771364356598,
+>>>>>>> Stashed changes
       "link": null,
       "locked": false
     },
     {
       "id": "vghANm_ryzc3oN4jdRiLZ",
       "type": "text",
+<<<<<<< Updated upstream
 <<<<<<< HEAD
       "x": 700.3941245886107,
       "y": -215.74482365350877,
@@ -1292,6 +1514,10 @@
       "x": 509.8322959753293,
       "y": -208.4649910254706,
 >>>>>>> cfd0510 (Updated system diagram)
+=======
+      "x": 509.8322959753293,
+      "y": -208.4649910254706,
+>>>>>>> Stashed changes
       "width": 96.01991271972656,
       "height": 50,
       "angle": 0,
@@ -1307,6 +1533,7 @@
       "index": "b5Z",
       "roundness": null,
       "seed": 131042508,
+<<<<<<< Updated upstream
 <<<<<<< HEAD
       "version": 788,
       "versionNonce": 2008877587,
@@ -1320,6 +1547,13 @@
       "boundElements": [],
       "updated": 1771364356598,
 >>>>>>> cfd0510 (Updated system diagram)
+=======
+      "version": 1030,
+      "versionNonce": 1091597317,
+      "isDeleted": false,
+      "boundElements": [],
+      "updated": 1771364356598,
+>>>>>>> Stashed changes
       "link": null,
       "locked": false,
       "text": "User\n(Browser)",
@@ -1333,6 +1567,7 @@
       "lineHeight": 1.25
     },
     {
+<<<<<<< Updated upstream
 <<<<<<< HEAD
       "id": "6_fyi-gcsKRtLEnHCdtyo",
       "type": "arrow",
@@ -1417,6 +1652,12 @@
       "x": 751.0822456641879,
       "y": -43.35430997706845,
 >>>>>>> cfd0510 (Updated system diagram)
+=======
+      "id": "qSDHEg3pnrizcH_uFGOFR",
+      "type": "text",
+      "x": 751.0822456641879,
+      "y": -43.35430997706845,
+>>>>>>> Stashed changes
       "width": 370.41674673963536,
       "height": 32.35057301552942,
       "angle": 0,
@@ -1432,6 +1673,7 @@
       "index": "b5b",
       "roundness": null,
       "seed": 1967712972,
+<<<<<<< Updated upstream
 <<<<<<< HEAD
       "version": 1353,
       "versionNonce": 850619301,
@@ -1445,6 +1687,13 @@
       "boundElements": [],
       "updated": 1771365055612,
 >>>>>>> cfd0510 (Updated system diagram)
+=======
+      "version": 1590,
+      "versionNonce": 359090155,
+      "isDeleted": false,
+      "boundElements": [],
+      "updated": 1771365055612,
+>>>>>>> Stashed changes
       "link": null,
       "locked": false,
       "text": "Subscription Service Platform",
@@ -1460,6 +1709,7 @@
     {
       "id": "t50L4dV38EGnnzN1yqcQ4",
       "type": "rectangle",
+<<<<<<< Updated upstream
 <<<<<<< HEAD
       "x": 382.3083547561887,
       "y": 315.62720887532834,
@@ -1469,6 +1719,11 @@
       "y": 298.3123152402451,
       "width": 105.73542627815551,
 >>>>>>> cfd0510 (Updated system diagram)
+=======
+      "x": 329.8156829511502,
+      "y": 298.3123152402451,
+      "width": 105.73542627815551,
+>>>>>>> Stashed changes
       "height": 35.72445891348982,
       "angle": 0,
       "strokeColor": "#1e1e1e",
@@ -1485,6 +1740,7 @@
         "type": 3
       },
       "seed": 1706449140,
+<<<<<<< Updated upstream
 <<<<<<< HEAD
       "version": 505,
       "versionNonce": 159965700,
@@ -1498,12 +1754,20 @@
       "boundElements": [],
       "updated": 1771364941713,
 >>>>>>> cfd0510 (Updated system diagram)
+=======
+      "version": 886,
+      "versionNonce": 1567886507,
+      "isDeleted": false,
+      "boundElements": [],
+      "updated": 1771364941713,
+>>>>>>> Stashed changes
       "link": null,
       "locked": false
     },
     {
       "id": "O08pi9rjzKpaQWEl3Ln-E",
       "type": "text",
+<<<<<<< Updated upstream
 <<<<<<< HEAD
       "x": 440.15524414888137,
       "y": 318.06877126357534,
@@ -1511,6 +1775,10 @@
       "x": 363.4646471059577,
       "y": 298.7305029403255,
 >>>>>>> cfd0510 (Updated system diagram)
+=======
+      "x": 363.4646471059577,
+      "y": 298.7305029403255,
+>>>>>>> Stashed changes
       "width": 44.68130085130403,
       "height": 31.842465155956475,
       "angle": 0,
@@ -1526,6 +1794,7 @@
       "index": "b5e",
       "roundness": null,
       "seed": 630455116,
+<<<<<<< Updated upstream
 <<<<<<< HEAD
       "version": 243,
       "versionNonce": 1394850804,
@@ -1544,6 +1813,13 @@
       "boundElements": [],
       "updated": 1771364843064,
 >>>>>>> cfd0510 (Updated system diagram)
+=======
+      "version": 373,
+      "versionNonce": 1722430565,
+      "isDeleted": false,
+      "boundElements": [],
+      "updated": 1771364843064,
+>>>>>>> Stashed changes
       "link": null,
       "locked": false,
       "text": "Cache\n(Redis)",
@@ -1557,6 +1833,7 @@
       "lineHeight": 1.25
     },
     {
+<<<<<<< Updated upstream
 <<<<<<< HEAD
       "id": "62LYpVWuDUvFOzpWW1agF",
       "type": "arrow",
@@ -1628,6 +1905,12 @@
       "x": 383.6145261468529,
       "y": 235.0247807997859,
 >>>>>>> cfd0510 (Updated system diagram)
+=======
+      "id": "h9SnSCUjaU6aTmSpRgIBl",
+      "type": "arrow",
+      "x": 383.6145261468529,
+      "y": 235.0247807997859,
+>>>>>>> Stashed changes
       "width": 0.5604829983695936,
       "height": 57.2586884712764,
       "angle": 0,
@@ -1645,6 +1928,7 @@
         "type": 2
       },
       "seed": 1848855116,
+<<<<<<< Updated upstream
 <<<<<<< HEAD
       "version": 921,
       "versionNonce": 1267381580,
@@ -1658,6 +1942,13 @@
       "boundElements": [],
       "updated": 1771364796430,
 >>>>>>> cfd0510 (Updated system diagram)
+=======
+      "version": 1030,
+      "versionNonce": 499001579,
+      "isDeleted": false,
+      "boundElements": [],
+      "updated": 1771364796430,
+>>>>>>> Stashed changes
       "link": null,
       "locked": false,
       "points": [
@@ -1680,6 +1971,7 @@
     {
       "id": "7xfJfPIvr4qilNvd79dDJ",
       "type": "text",
+<<<<<<< Updated upstream
 <<<<<<< HEAD
       "x": 620.1791026525301,
       "y": 435.05633817598783,
@@ -1687,6 +1979,10 @@
       "x": 718.8939112838412,
       "y": 400.9027730322577,
 >>>>>>> cfd0510 (Updated system diagram)
+=======
+      "x": 718.8939112838412,
+      "y": 400.9027730322577,
+>>>>>>> Stashed changes
       "width": 260.8568023636938,
       "height": 120.19583565848211,
       "angle": 0,
@@ -1702,6 +1998,7 @@
       "index": "b5s",
       "roundness": null,
       "seed": 1774917236,
+<<<<<<< Updated upstream
 <<<<<<< HEAD
       "version": 1120,
       "versionNonce": 1034943749,
@@ -1709,6 +2006,10 @@
       "version": 1224,
       "versionNonce": 2023402821,
 >>>>>>> cfd0510 (Updated system diagram)
+=======
+      "version": 1224,
+      "versionNonce": 2023402821,
+>>>>>>> Stashed changes
       "isDeleted": false,
       "boundElements": [
         {
@@ -1716,11 +2017,15 @@
           "type": "arrow"
         }
       ],
+<<<<<<< Updated upstream
 <<<<<<< HEAD
       "updated": 1771352974178,
 =======
       "updated": 1771364966730,
 >>>>>>> cfd0510 (Updated system diagram)
+=======
+      "updated": 1771364966730,
+>>>>>>> Stashed changes
       "link": null,
       "locked": false,
       "text": "We will use Kafka in KRaft mode. \ni.e. Kafka will now manage\n  * Metadata\n  * Leader election\n  * Consensus\n",
@@ -1736,6 +2041,7 @@
     {
       "id": "kz5FiAcqrliM49oI7iKub",
       "type": "rectangle",
+<<<<<<< Updated upstream
 <<<<<<< HEAD
       "x": 1324.1316606452149,
       "y": 58.18080004482346,
@@ -1743,6 +2049,10 @@
       "x": 1436.5193438690467,
       "y": 98.38294631079486,
 >>>>>>> cfd0510 (Updated system diagram)
+=======
+      "x": 1436.5193438690467,
+      "y": 98.38294631079486,
+>>>>>>> Stashed changes
       "width": 97.69053049071788,
       "height": 94.33570252519732,
       "angle": 0,
@@ -1760,6 +2070,7 @@
         "type": 3
       },
       "seed": 1997725900,
+<<<<<<< Updated upstream
 <<<<<<< HEAD
       "version": 1859,
       "versionNonce": 797197541,
@@ -1767,6 +2078,10 @@
       "version": 2005,
       "versionNonce": 743974821,
 >>>>>>> cfd0510 (Updated system diagram)
+=======
+      "version": 2005,
+      "versionNonce": 743974821,
+>>>>>>> Stashed changes
       "isDeleted": false,
       "boundElements": [
         {
@@ -1774,17 +2089,22 @@
           "type": "arrow"
         }
       ],
+<<<<<<< Updated upstream
 <<<<<<< HEAD
       "updated": 1771353006073,
 =======
       "updated": 1771365010763,
 >>>>>>> cfd0510 (Updated system diagram)
+=======
+      "updated": 1771365010763,
+>>>>>>> Stashed changes
       "link": null,
       "locked": false
     },
     {
       "id": "oCDvK0_DTTEP2ynGxEM65",
       "type": "text",
+<<<<<<< Updated upstream
 <<<<<<< HEAD
       "x": 1341.6991284529859,
       "y": 71.36528916394701,
@@ -1792,6 +2112,10 @@
       "x": 1455.3079887465474,
       "y": 108.57001199535713,
 >>>>>>> cfd0510 (Updated system diagram)
+=======
+      "x": 1455.3079887465474,
+      "y": 108.57001199535713,
+>>>>>>> Stashed changes
       "width": 47.79703107543621,
       "height": 27.256539883802937,
       "angle": 0,
@@ -1807,6 +2131,7 @@
       "index": "b5u",
       "roundness": null,
       "seed": 505813708,
+<<<<<<< Updated upstream
 <<<<<<< HEAD
       "version": 1259,
       "versionNonce": 750967275,
@@ -1820,6 +2145,13 @@
       "boundElements": [],
       "updated": 1771365017013,
 >>>>>>> cfd0510 (Updated system diagram)
+=======
+      "version": 1334,
+      "versionNonce": 1854088773,
+      "isDeleted": false,
+      "boundElements": [],
+      "updated": 1771365017013,
+>>>>>>> Stashed changes
       "link": null,
       "locked": false,
       "text": "RAG",
@@ -1835,6 +2167,7 @@
     {
       "id": "xeyvqYi_tnwiNTYuUuIBF",
       "type": "ellipse",
+<<<<<<< Updated upstream
 <<<<<<< HEAD
       "x": 1332.8532910977979,
       "y": 209.00207253442414,
@@ -1842,6 +2175,10 @@
       "x": 1443.2606239667164,
       "y": 259.9477148802596,
 >>>>>>> cfd0510 (Updated system diagram)
+=======
+      "x": 1443.2606239667164,
+      "y": 259.9477148802596,
+>>>>>>> Stashed changes
       "width": 84.58369158625258,
       "height": 21.38555295711821,
       "angle": 0,
@@ -1859,6 +2196,7 @@
         "type": 2
       },
       "seed": 1562584564,
+<<<<<<< Updated upstream
 <<<<<<< HEAD
       "version": 1547,
       "versionNonce": 483164235,
@@ -1872,12 +2210,20 @@
       "boundElements": [],
       "updated": 1771365036822,
 >>>>>>> cfd0510 (Updated system diagram)
+=======
+      "version": 1838,
+      "versionNonce": 893971909,
+      "isDeleted": false,
+      "boundElements": [],
+      "updated": 1771365036822,
+>>>>>>> Stashed changes
       "link": null,
       "locked": false
     },
     {
       "id": "xe0UZGRdmTD3DCUuEp9g2",
       "type": "line",
+<<<<<<< Updated upstream
 <<<<<<< HEAD
       "x": 1334.1378898619705,
       "y": 222.7612900124969,
@@ -1885,6 +2231,10 @@
       "x": 1444.545222730889,
       "y": 273.7069323583323,
 >>>>>>> cfd0510 (Updated system diagram)
+=======
+      "x": 1444.545222730889,
+      "y": 273.7069323583323,
+>>>>>>> Stashed changes
       "width": 1.4569117054065075,
       "height": 76.81413390615666,
       "angle": 0,
@@ -1902,6 +2252,7 @@
         "type": 2
       },
       "seed": 1462912884,
+<<<<<<< Updated upstream
 <<<<<<< HEAD
       "version": 1375,
       "versionNonce": 813980901,
@@ -1915,6 +2266,13 @@
       "boundElements": [],
       "updated": 1771365036822,
 >>>>>>> cfd0510 (Updated system diagram)
+=======
+      "version": 1666,
+      "versionNonce": 936439077,
+      "isDeleted": false,
+      "boundElements": [],
+      "updated": 1771365036822,
+>>>>>>> Stashed changes
       "link": null,
       "locked": false,
       "points": [
@@ -1934,6 +2292,7 @@
       "polygon": false
     },
     {
+<<<<<<< Updated upstream
 <<<<<<< HEAD
       "id": "acKbxNn3XC6USlWUpwN7u",
       "type": "line",
@@ -1990,6 +2349,12 @@
       "x": 1528.0818436583183,
       "y": 272.6711948672021,
 >>>>>>> cfd0510 (Updated system diagram)
+=======
+      "id": "vKczN097nYtrKH0MfBpSe",
+      "type": "line",
+      "x": 1528.0818436583183,
+      "y": 272.6711948672021,
+>>>>>>> Stashed changes
       "width": 1.225532936616446,
       "height": 80.70544429077626,
       "angle": 0,
@@ -2007,6 +2372,7 @@
         "type": 2
       },
       "seed": 433018228,
+<<<<<<< Updated upstream
 <<<<<<< HEAD
       "version": 1386,
       "versionNonce": 1580218725,
@@ -2020,6 +2386,13 @@
       "boundElements": [],
       "updated": 1771365036822,
 >>>>>>> cfd0510 (Updated system diagram)
+=======
+      "version": 1678,
+      "versionNonce": 1541537925,
+      "isDeleted": false,
+      "boundElements": [],
+      "updated": 1771365036822,
+>>>>>>> Stashed changes
       "link": null,
       "locked": false,
       "points": [
@@ -2041,6 +2414,7 @@
     {
       "id": "0IsdpBscqlkhF6jKSHo2x",
       "type": "text",
+<<<<<<< Updated upstream
 <<<<<<< HEAD
       "x": 1339.6482816386851,
       "y": 96.81875038856583,
@@ -2048,6 +2422,10 @@
       "x": 1452.035964862517,
       "y": 137.02089665453724,
 >>>>>>> cfd0510 (Updated system diagram)
+=======
+      "x": 1452.035964862517,
+      "y": 137.02089665453724,
+>>>>>>> Stashed changes
       "width": 94.28518265217075,
       "height": 46.21221234039555,
       "angle": 0,
@@ -2063,6 +2441,7 @@
       "index": "b60",
       "roundness": null,
       "seed": 537720052,
+<<<<<<< Updated upstream
 <<<<<<< HEAD
       "version": 1097,
       "versionNonce": 1156771211,
@@ -2076,6 +2455,13 @@
       "boundElements": [],
       "updated": 1771365010763,
 >>>>>>> cfd0510 (Updated system diagram)
+=======
+      "version": 1243,
+      "versionNonce": 1108623973,
+      "isDeleted": false,
+      "boundElements": [],
+      "updated": 1771365010763,
+>>>>>>> Stashed changes
       "link": null,
       "locked": false,
       "text": "Retreival\nAugmented\nGeneration      ",
@@ -2091,6 +2477,7 @@
     {
       "id": "uf2wXaK3uHJAL0Vxd9JJV",
       "type": "text",
+<<<<<<< Updated upstream
 <<<<<<< HEAD
       "x": 1347.2457502851846,
       "y": 231.82125378835605,
@@ -2098,6 +2485,10 @@
       "x": 1457.6530831541031,
       "y": 282.7668961341915,
 >>>>>>> cfd0510 (Updated system diagram)
+=======
+      "x": 1457.6530831541031,
+      "y": 282.7668961341915,
+>>>>>>> Stashed changes
       "width": 56.53497532415724,
       "height": 44.61412217881946,
       "angle": 0,
@@ -2113,6 +2504,7 @@
       "index": "b61",
       "roundness": null,
       "seed": 1313784268,
+<<<<<<< Updated upstream
 <<<<<<< HEAD
       "version": 742,
       "versionNonce": 24018853,
@@ -2120,6 +2512,10 @@
       "version": 1033,
       "versionNonce": 926525413,
 >>>>>>> cfd0510 (Updated system diagram)
+=======
+      "version": 1033,
+      "versionNonce": 926525413,
+>>>>>>> Stashed changes
       "isDeleted": false,
       "boundElements": [
         {
@@ -2127,11 +2523,15 @@
           "type": "arrow"
         }
       ],
+<<<<<<< Updated upstream
 <<<<<<< HEAD
       "updated": 1771352816853,
 =======
       "updated": 1771365036822,
 >>>>>>> cfd0510 (Updated system diagram)
+=======
+      "updated": 1771365036822,
+>>>>>>> Stashed changes
       "link": null,
       "locked": false,
       "text": "Vector\n  DB",
@@ -2147,17 +2547,23 @@
     {
       "id": "ErH72QXSjVLyvk7ToKqG7",
       "type": "arrow",
+<<<<<<< Updated upstream
 <<<<<<< HEAD
       "x": 1248.7559793468997,
       "y": 92.96657293815207,
       "width": 69.37568129831516,
       "height": 1.1125768270998009,
 =======
+=======
+>>>>>>> Stashed changes
       "x": 1315.027793470276,
       "y": 134.68150006727893,
       "width": 115.49155039877064,
       "height": 0.2238634206442498,
+<<<<<<< Updated upstream
 >>>>>>> cfd0510 (Updated system diagram)
+=======
+>>>>>>> Stashed changes
       "angle": 0,
       "strokeColor": "#868e96",
       "backgroundColor": "#a5d8ff",
@@ -2171,6 +2577,7 @@
       "index": "b62",
       "roundness": null,
       "seed": 1006934348,
+<<<<<<< Updated upstream
 <<<<<<< HEAD
       "version": 3089,
       "versionNonce": 2085581451,
@@ -2184,6 +2591,13 @@
       "boundElements": [],
       "updated": 1771365010763,
 >>>>>>> cfd0510 (Updated system diagram)
+=======
+      "version": 3432,
+      "versionNonce": 1620962053,
+      "isDeleted": false,
+      "boundElements": [],
+      "updated": 1771365010763,
+>>>>>>> Stashed changes
       "link": null,
       "locked": false,
       "points": [
@@ -2192,6 +2606,7 @@
           0
         ],
         [
+<<<<<<< Updated upstream
 <<<<<<< HEAD
           69.37568129831516,
           1.1125768270998009
@@ -2199,6 +2614,10 @@
           115.49155039877064,
           0.2238634206442498
 >>>>>>> cfd0510 (Updated system diagram)
+=======
+          115.49155039877064,
+          0.2238634206442498
+>>>>>>> Stashed changes
         ]
       ],
       "startBinding": {
@@ -2228,6 +2647,7 @@
     {
       "id": "Dy52lCikAHwwUUKpQHkRU",
       "type": "text",
+<<<<<<< Updated upstream
 <<<<<<< HEAD
       "x": 1338.57497929905,
       "y": 275.7717522732653,
@@ -2235,6 +2655,10 @@
       "x": 1452.0226368332555,
       "y": 330.26631737547547,
 >>>>>>> cfd0510 (Updated system diagram)
+=======
+      "x": 1452.0226368332555,
+      "y": 330.26631737547547,
+>>>>>>> Stashed changes
       "width": 73.69256937138175,
       "height": 18.368054435446652,
       "angle": 0,
@@ -2250,6 +2674,7 @@
       "index": "b64",
       "roundness": null,
       "seed": 1563368308,
+<<<<<<< Updated upstream
 <<<<<<< HEAD
       "version": 786,
       "versionNonce": 1196601771,
@@ -2263,6 +2688,13 @@
       "boundElements": [],
       "updated": 1771365040763,
 >>>>>>> cfd0510 (Updated system diagram)
+=======
+      "version": 850,
+      "versionNonce": 1223631051,
+      "isDeleted": false,
+      "boundElements": [],
+      "updated": 1771365040763,
+>>>>>>> Stashed changes
       "link": null,
       "locked": false,
       "text": "(Pinecone)",
@@ -2278,6 +2710,7 @@
     {
       "id": "nyuvxItSZAn5Gidi0WNcb",
       "type": "rectangle",
+<<<<<<< Updated upstream
 <<<<<<< HEAD
       "x": 1007.8558324421465,
       "y": -254.43063137306893,
@@ -2285,15 +2718,23 @@
       "x": 1057.2845695529306,
       "y": -253.4635180338172,
 >>>>>>> cfd0510 (Updated system diagram)
+=======
+      "x": 1057.2845695529306,
+      "y": -253.4635180338172,
+>>>>>>> Stashed changes
       "width": 355.46383016391536,
       "height": 133.04069124115185,
       "angle": 0,
       "strokeColor": "#1e1e1e",
+<<<<<<< Updated upstream
 <<<<<<< HEAD
       "backgroundColor": "#a5d8ff",
 =======
       "backgroundColor": "#fff5f5",
 >>>>>>> cfd0510 (Updated system diagram)
+=======
+      "backgroundColor": "#fff5f5",
+>>>>>>> Stashed changes
       "fillStyle": "solid",
       "strokeWidth": 2,
       "strokeStyle": "solid",
@@ -2306,6 +2747,7 @@
         "type": 3
       },
       "seed": 1057295220,
+<<<<<<< Updated upstream
 <<<<<<< HEAD
       "version": 492,
       "versionNonce": 1032483307,
@@ -2313,6 +2755,10 @@
       "version": 738,
       "versionNonce": 1097130149,
 >>>>>>> cfd0510 (Updated system diagram)
+=======
+      "version": 738,
+      "versionNonce": 1097130149,
+>>>>>>> Stashed changes
       "isDeleted": false,
       "boundElements": [
         {
@@ -2320,17 +2766,22 @@
           "type": "arrow"
         }
       ],
+<<<<<<< Updated upstream
 <<<<<<< HEAD
       "updated": 1771353077465,
 =======
       "updated": 1771365976324,
 >>>>>>> cfd0510 (Updated system diagram)
+=======
+      "updated": 1771365976324,
+>>>>>>> Stashed changes
       "link": null,
       "locked": false
     },
     {
       "id": "yc2oDfNxoAVQqTeN0xQGv",
       "type": "rectangle",
+<<<<<<< Updated upstream
 <<<<<<< HEAD
       "x": 1128.5037200128747,
       "y": -207.10821534400583,
@@ -2338,15 +2789,23 @@
       "x": 1171.9302336847497,
       "y": -208.3629455686152,
 >>>>>>> cfd0510 (Updated system diagram)
+=======
+      "x": 1171.9302336847497,
+      "y": -208.3629455686152,
+>>>>>>> Stashed changes
       "width": 97.25142505614122,
       "height": 60,
       "angle": 0,
       "strokeColor": "#1e1e1e",
+<<<<<<< Updated upstream
 <<<<<<< HEAD
       "backgroundColor": "transparent",
 =======
       "backgroundColor": "#ebfbee",
 >>>>>>> cfd0510 (Updated system diagram)
+=======
+      "backgroundColor": "#ebfbee",
+>>>>>>> Stashed changes
       "fillStyle": "solid",
       "strokeWidth": 2,
       "strokeStyle": "solid",
@@ -2359,6 +2818,7 @@
         "type": 3
       },
       "seed": 1017641972,
+<<<<<<< Updated upstream
 <<<<<<< HEAD
       "version": 1091,
       "versionNonce": 571687467,
@@ -2366,6 +2826,10 @@
       "version": 1145,
       "versionNonce": 238831397,
 >>>>>>> cfd0510 (Updated system diagram)
+=======
+      "version": 1145,
+      "versionNonce": 238831397,
+>>>>>>> Stashed changes
       "isDeleted": false,
       "boundElements": [
         {
@@ -2373,17 +2837,22 @@
           "id": "eHNv4zlHXMAFnqI3YvAA_"
         }
       ],
+<<<<<<< Updated upstream
 <<<<<<< HEAD
       "updated": 1771353064570,
 =======
       "updated": 1771364402731,
 >>>>>>> cfd0510 (Updated system diagram)
+=======
+      "updated": 1771364402731,
+>>>>>>> Stashed changes
       "link": null,
       "locked": false
     },
     {
       "id": "eHNv4zlHXMAFnqI3YvAA_",
       "type": "text",
+<<<<<<< Updated upstream
 <<<<<<< HEAD
       "x": 1148.5594633636993,
       "y": -202.10821534400583,
@@ -2391,6 +2860,10 @@
       "x": 1191.9859770355743,
       "y": -203.3629455686152,
 >>>>>>> cfd0510 (Updated system diagram)
+=======
+      "x": 1191.9859770355743,
+      "y": -203.3629455686152,
+>>>>>>> Stashed changes
       "width": 57.13993835449219,
       "height": 50,
       "angle": 0,
@@ -2406,6 +2879,7 @@
       "index": "b67",
       "roundness": null,
       "seed": 1538022772,
+<<<<<<< Updated upstream
 <<<<<<< HEAD
       "version": 1051,
       "versionNonce": 375375051,
@@ -2419,6 +2893,13 @@
       "boundElements": [],
       "updated": 1771364402731,
 >>>>>>> cfd0510 (Updated system diagram)
+=======
+      "version": 1102,
+      "versionNonce": 1070733957,
+      "isDeleted": false,
+      "boundElements": [],
+      "updated": 1771364402731,
+>>>>>>> Stashed changes
       "link": null,
       "locked": false,
       "text": "Genini\n(API)",
@@ -2434,6 +2915,7 @@
     {
       "id": "HCoT0XGa7NlUsGXMyciqi",
       "type": "rectangle",
+<<<<<<< Updated upstream
 <<<<<<< HEAD
       "x": 1240.1328156490417,
       "y": -206.08338380246028,
@@ -2441,15 +2923,23 @@
       "x": 1283.1489018035559,
       "y": -206.9238209498127,
 >>>>>>> cfd0510 (Updated system diagram)
+=======
+      "x": 1283.1489018035559,
+      "y": -206.9238209498127,
+>>>>>>> Stashed changes
       "width": 106.04488681533077,
       "height": 60,
       "angle": 0,
       "strokeColor": "#1e1e1e",
+<<<<<<< Updated upstream
 <<<<<<< HEAD
       "backgroundColor": "transparent",
 =======
       "backgroundColor": "#ffc9c9",
 >>>>>>> cfd0510 (Updated system diagram)
+=======
+      "backgroundColor": "#ffc9c9",
+>>>>>>> Stashed changes
       "fillStyle": "solid",
       "strokeWidth": 2,
       "strokeStyle": "solid",
@@ -2462,6 +2952,7 @@
         "type": 3
       },
       "seed": 1936927564,
+<<<<<<< Updated upstream
 <<<<<<< HEAD
       "version": 1109,
       "versionNonce": 1598223211,
@@ -2469,6 +2960,10 @@
       "version": 1159,
       "versionNonce": 437682661,
 >>>>>>> cfd0510 (Updated system diagram)
+=======
+      "version": 1159,
+      "versionNonce": 437682661,
+>>>>>>> Stashed changes
       "isDeleted": false,
       "boundElements": [
         {
@@ -2476,17 +2971,22 @@
           "id": "VSaLF3g1VhgHUaxZ9rhq2"
         }
       ],
+<<<<<<< Updated upstream
 <<<<<<< HEAD
       "updated": 1771353064570,
 =======
       "updated": 1771364402731,
 >>>>>>> cfd0510 (Updated system diagram)
+=======
+      "updated": 1771364402731,
+>>>>>>> Stashed changes
       "link": null,
       "locked": false
     },
     {
       "id": "VSaLF3g1VhgHUaxZ9rhq2",
       "type": "text",
+<<<<<<< Updated upstream
 <<<<<<< HEAD
       "x": 1246.9553002554376,
       "y": -201.08338380246028,
@@ -2494,6 +2994,10 @@
       "x": 1289.9713864099517,
       "y": -201.9238209498127,
 >>>>>>> cfd0510 (Updated system diagram)
+=======
+      "x": 1289.9713864099517,
+      "y": -201.9238209498127,
+>>>>>>> Stashed changes
       "width": 92.39991760253906,
       "height": 50,
       "angle": 0,
@@ -2509,6 +3013,7 @@
       "index": "b69",
       "roundness": null,
       "seed": 1292362188,
+<<<<<<< Updated upstream
 <<<<<<< HEAD
       "version": 1086,
       "versionNonce": 218582539,
@@ -2522,6 +3027,13 @@
       "boundElements": [],
       "updated": 1771364402731,
 >>>>>>> cfd0510 (Updated system diagram)
+=======
+      "version": 1135,
+      "versionNonce": 840367429,
+      "isDeleted": false,
+      "boundElements": [],
+      "updated": 1771364402731,
+>>>>>>> Stashed changes
       "link": null,
       "locked": false,
       "text": "DeepSeek\n(API)",
@@ -2537,6 +3049,7 @@
     {
       "id": "sLpkuIBrknP0SJ1iD_AhI",
       "type": "text",
+<<<<<<< Updated upstream
 <<<<<<< HEAD
       "x": 1127.4927858219207,
       "y": -246.4392331310221,
@@ -2544,6 +3057,10 @@
       "x": 1171.3296591943165,
       "y": -247.2796702783745,
 >>>>>>> cfd0510 (Updated system diagram)
+=======
+      "x": 1171.3296591943165,
+      "y": -247.2796702783745,
+>>>>>>> Stashed changes
       "width": 98.03990173339844,
       "height": 25,
       "angle": 0,
@@ -2559,6 +3076,7 @@
       "index": "b6A",
       "roundness": null,
       "seed": 1955161292,
+<<<<<<< Updated upstream
 <<<<<<< HEAD
       "version": 382,
       "versionNonce": 1118262443,
@@ -2572,6 +3090,13 @@
       "boundElements": [],
       "updated": 1771364402731,
 >>>>>>> cfd0510 (Updated system diagram)
+=======
+      "version": 433,
+      "versionNonce": 523308197,
+      "isDeleted": false,
+      "boundElements": [],
+      "updated": 1771364402731,
+>>>>>>> Stashed changes
       "link": null,
       "locked": false,
       "text": "LLM API's",
@@ -2587,6 +3112,7 @@
     {
       "id": "4-cTZEehPB68ih70Re6tu",
       "type": "text",
+<<<<<<< Updated upstream
 <<<<<<< HEAD
       "x": 1298.6062580280482,
       "y": -6.162667516086685,
@@ -2594,6 +3120,10 @@
       "x": 1333.0760659707566,
       "y": -11.225025100722064,
 >>>>>>> cfd0510 (Updated system diagram)
+=======
+      "x": 1333.0760659707566,
+      "y": -11.225025100722064,
+>>>>>>> Stashed changes
       "width": 136.89991760253906,
       "height": 25,
       "angle": 0,
@@ -2609,6 +3139,7 @@
       "index": "b6D",
       "roundness": null,
       "seed": 1335371980,
+<<<<<<< Updated upstream
 <<<<<<< HEAD
       "version": 261,
       "versionNonce": 598222827,
@@ -2616,6 +3147,10 @@
       "version": 337,
       "versionNonce": 276597291,
 >>>>>>> cfd0510 (Updated system diagram)
+=======
+      "version": 337,
+      "versionNonce": 276597291,
+>>>>>>> Stashed changes
       "isDeleted": false,
       "boundElements": [
         {
@@ -2623,11 +3158,15 @@
           "type": "arrow"
         }
       ],
+<<<<<<< Updated upstream
 <<<<<<< HEAD
       "updated": 1771352904908,
 =======
       "updated": 1771364434481,
 >>>>>>> cfd0510 (Updated system diagram)
+=======
+      "updated": 1771364434481,
+>>>>>>> Stashed changes
       "link": null,
       "locked": false,
       "text": "Model routing.",
@@ -2643,17 +3182,23 @@
     {
       "id": "_EXJjLt56Rgt2R-HX2jOq",
       "type": "arrow",
+<<<<<<< Updated upstream
 <<<<<<< HEAD
       "x": 1191.9468287130057,
       "y": 39.969147156329086,
       "width": 100.65942931504242,
       "height": 31.946282146374507,
 =======
+=======
+>>>>>>> Stashed changes
       "x": 1254.2645854275704,
       "y": 62.56622696318729,
       "width": 72.81148054318646,
       "height": 57.328782292773305,
+<<<<<<< Updated upstream
 >>>>>>> cfd0510 (Updated system diagram)
+=======
+>>>>>>> Stashed changes
       "angle": 0,
       "strokeColor": "#868e96",
       "backgroundColor": "transparent",
@@ -2669,6 +3214,7 @@
         "type": 2
       },
       "seed": 685804148,
+<<<<<<< Updated upstream
 <<<<<<< HEAD
       "version": 644,
       "versionNonce": 522396939,
@@ -2682,6 +3228,13 @@
       "boundElements": [],
       "updated": 1771364434481,
 >>>>>>> cfd0510 (Updated system diagram)
+=======
+      "version": 824,
+      "versionNonce": 2019560651,
+      "isDeleted": false,
+      "boundElements": [],
+      "updated": 1771364434481,
+>>>>>>> Stashed changes
       "link": null,
       "locked": false,
       "points": [
@@ -2690,6 +3243,7 @@
           0
         ],
         [
+<<<<<<< Updated upstream
 <<<<<<< HEAD
           49.82883158632467,
           -17.68802393044996
@@ -2705,6 +3259,14 @@
           72.81148054318646,
           -57.328782292773305
 >>>>>>> cfd0510 (Updated system diagram)
+=======
+          27.91954153366939,
+          -27.700328718543645
+        ],
+        [
+          72.81148054318646,
+          -57.328782292773305
+>>>>>>> Stashed changes
         ]
       ],
       "startBinding": null,
@@ -2718,16 +3280,22 @@
       },
       "startArrowhead": null,
       "endArrowhead": null,
+<<<<<<< Updated upstream
 <<<<<<< HEAD
       "elbowed": false
 =======
       "elbowed": false,
       "moveMidPointsWithElement": false
 >>>>>>> cfd0510 (Updated system diagram)
+=======
+      "elbowed": false,
+      "moveMidPointsWithElement": false
+>>>>>>> Stashed changes
     },
     {
       "id": "37h821qsZmuITEuqSSS72",
       "type": "text",
+<<<<<<< Updated upstream
 <<<<<<< HEAD
       "x": 560.9536601717072,
       "y": 231.58997401083082,
@@ -2735,6 +3303,10 @@
       "x": 543.7595459272258,
       "y": 257.3568510589639,
 >>>>>>> cfd0510 (Updated system diagram)
+=======
+      "x": 543.7595459272258,
+      "y": 257.3568510589639,
+>>>>>>> Stashed changes
       "width": 105.13511657714844,
       "height": 16.462053571428562,
       "angle": 0,
@@ -2750,6 +3322,7 @@
       "index": "b6E",
       "roundness": null,
       "seed": 6604563,
+<<<<<<< Updated upstream
 <<<<<<< HEAD
       "version": 247,
       "versionNonce": 1098579763,
@@ -2858,6 +3431,13 @@
       "boundElements": [],
       "updated": 1771365310895,
 >>>>>>> cfd0510 (Updated system diagram)
+=======
+      "version": 473,
+      "versionNonce": 230285541,
+      "isDeleted": false,
+      "boundElements": [],
+      "updated": 1771365310895,
+>>>>>>> Stashed changes
       "link": null,
       "locked": false,
       "text": "<<UsageEvent>>",
@@ -2873,6 +3453,7 @@
     {
       "id": "YDUZeSGlgEtZwsCvh6crH",
       "type": "line",
+<<<<<<< Updated upstream
 <<<<<<< HEAD
       "x": 1334.708560908494,
       "y": 299.82634614909875,
@@ -2880,6 +3461,10 @@
       "x": 1445.1158937774126,
       "y": 350.01995515632746,
 >>>>>>> cfd0510 (Updated system diagram)
+=======
+      "x": 1445.1158937774126,
+      "y": 350.01995515632746,
+>>>>>>> Stashed changes
       "width": 79.555714784992,
       "height": 13.508172328452076,
       "angle": 0.008205581850459609,
@@ -2897,6 +3482,7 @@
         "type": 2
       },
       "seed": 1366262589,
+<<<<<<< Updated upstream
 <<<<<<< HEAD
       "version": 1290,
       "versionNonce": 1706142443,
@@ -2910,6 +3496,13 @@
       "boundElements": [],
       "updated": 1771365036822,
 >>>>>>> cfd0510 (Updated system diagram)
+=======
+      "version": 1583,
+      "versionNonce": 1273324357,
+      "isDeleted": false,
+      "boundElements": [],
+      "updated": 1771365036822,
+>>>>>>> Stashed changes
       "link": null,
       "locked": false,
       "points": [
@@ -2943,17 +3536,23 @@
     {
       "id": "FgklrIbdRz9PLZoFOr8FK",
       "type": "rectangle",
+<<<<<<< Updated upstream
 <<<<<<< HEAD
       "x": 175.92735066888878,
       "y": -336.8439726961987,
       "width": 1518.5927429199219,
       "height": 1139.6475957234702,
 =======
+=======
+>>>>>>> Stashed changes
       "x": 156.5911107747923,
       "y": -307.3792501034856,
       "width": 1537.9289828140184,
       "height": 1019.8762361675988,
+<<<<<<< Updated upstream
 >>>>>>> cfd0510 (Updated system diagram)
+=======
+>>>>>>> Stashed changes
       "angle": 0,
       "strokeColor": "#868e96",
       "backgroundColor": "transparent",
@@ -2967,6 +3566,7 @@
       "index": "b6J",
       "roundness": null,
       "seed": 1591623812,
+<<<<<<< Updated upstream
 <<<<<<< HEAD
       "version": 731,
       "versionNonce": 1806662885,
@@ -2974,6 +3574,10 @@
       "version": 854,
       "versionNonce": 1823243659,
 >>>>>>> cfd0510 (Updated system diagram)
+=======
+      "version": 854,
+      "versionNonce": 1823243659,
+>>>>>>> Stashed changes
       "isDeleted": false,
       "boundElements": [
         {
@@ -2981,15 +3585,20 @@
           "type": "arrow"
         }
       ],
+<<<<<<< Updated upstream
 <<<<<<< HEAD
       "updated": 1771353134268,
 =======
       "updated": 1771365150181,
 >>>>>>> cfd0510 (Updated system diagram)
+=======
+      "updated": 1771365150181,
+>>>>>>> Stashed changes
       "link": null,
       "locked": false
     },
     {
+<<<<<<< Updated upstream
 <<<<<<< HEAD
       "id": "zjssUXSqRUT3u8JwjoVmP",
       "type": "arrow",
@@ -3073,11 +3682,91 @@
     {
       "id": "zjssUXSqRUT3u8JwjoVmP",
       "type": "arrow",
+=======
+      "id": "6_fyi-gcsKRtLEnHCdtyo",
+      "type": "arrow",
+      "x": 557.8494682786055,
+      "y": -137.14603510447913,
+      "width": 0.16495669870539587,
+      "height": 146.49801326557716,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 0,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "b6JG",
+      "roundness": null,
+      "seed": 45879884,
+      "version": 2845,
+      "versionNonce": 1699588965,
+      "isDeleted": false,
+      "boundElements": [],
+      "updated": 1771364356599,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          -0.16495669870539587,
+          146.49801326557716
+        ]
+      ],
+      "startBinding": {
+        "elementId": "3LaU8dqCX7wlS-EyHatps",
+        "mode": "orbit",
+        "fixedPoint": [
+          0.5001,
+          1
+        ]
+      },
+      "endBinding": {
+        "elementId": "S8tTE4I3WD9ms7Qhkkkm-",
+        "mode": "inside",
+        "fixedPoint": [
+          0.5118167306556716,
+          0.024508412382575256
+        ]
+      },
+      "startArrowhead": null,
+      "endArrowhead": "arrow",
+      "elbowed": false,
+      "fixedSegments": [
+        {
+          "index": 3,
+          "start": [
+            -4.14294563731346,
+            40
+          ],
+          "end": [
+            -4.14294563731346,
+            67.5810376895031
+          ]
+        }
+      ],
+      "startIsSpecial": false,
+      "endIsSpecial": false,
+      "moveMidPointsWithElement": false
+    },
+    {
+      "id": "zjssUXSqRUT3u8JwjoVmP",
+      "type": "arrow",
+>>>>>>> Stashed changes
       "x": 1236.1534670793171,
       "y": 72.92419255622833,
       "width": 1.0675545865283311,
       "height": 187.34701934889364,
+<<<<<<< Updated upstream
 >>>>>>> cfd0510 (Updated system diagram)
+=======
+>>>>>>> Stashed changes
       "angle": 0,
       "strokeColor": "#1e1e1e",
       "backgroundColor": "transparent",
@@ -3091,6 +3780,7 @@
       "index": "b6JV",
       "roundness": null,
       "seed": 284111820,
+<<<<<<< Updated upstream
 <<<<<<< HEAD
       "version": 3769,
       "versionNonce": 1249302661,
@@ -3104,6 +3794,13 @@
       "boundElements": [],
       "updated": 1771365910077,
 >>>>>>> cfd0510 (Updated system diagram)
+=======
+      "version": 4327,
+      "versionNonce": 236153355,
+      "isDeleted": false,
+      "boundElements": [],
+      "updated": 1771365910077,
+>>>>>>> Stashed changes
       "link": null,
       "locked": false,
       "points": [
@@ -3112,6 +3809,7 @@
           0
         ],
         [
+<<<<<<< Updated upstream
 <<<<<<< HEAD
           -1.0673942818787054,
           -153.32451755815384
@@ -3119,6 +3817,10 @@
           -1.0675545865283311,
           -187.34701934889364
 >>>>>>> cfd0510 (Updated system diagram)
+=======
+          -1.0675545865283311,
+          -187.34701934889364
+>>>>>>> Stashed changes
         ]
       ],
       "startBinding": {
@@ -3131,6 +3833,7 @@
       },
       "endBinding": {
         "elementId": "nyuvxItSZAn5Gidi0WNcb",
+<<<<<<< Updated upstream
 <<<<<<< HEAD
         "mode": "inside",
         "fixedPoint": [
@@ -3142,6 +3845,12 @@
           0.5001,
           1
 >>>>>>> cfd0510 (Updated system diagram)
+=======
+        "mode": "orbit",
+        "fixedPoint": [
+          0.5001,
+          1
+>>>>>>> Stashed changes
         ]
       },
       "startArrowhead": null,
@@ -3153,6 +3862,7 @@
       "endIsSpecial": null
     },
     {
+<<<<<<< Updated upstream
 <<<<<<< HEAD
       "id": "jlGQ9WnZfP8Gf_4HixA9I",
       "type": "rectangle",
@@ -3448,11 +4158,18 @@
 =======
       "id": "lU7xjS1WOQHphG7K4BJ3v",
       "type": "text",
+=======
+      "id": "lU7xjS1WOQHphG7K4BJ3v",
+      "type": "text",
+>>>>>>> Stashed changes
       "x": 692.5658264167657,
       "y": 74.02009561233041,
       "width": 221.36626802793242,
       "height": 20.833106146918404,
+<<<<<<< Updated upstream
 >>>>>>> cfd0510 (Updated system diagram)
+=======
+>>>>>>> Stashed changes
       "angle": 0,
       "strokeColor": "#1e1e1e",
       "backgroundColor": "transparent",
@@ -3466,14 +4183,20 @@
       "index": "b6W",
       "roundness": null,
       "seed": 762300148,
+<<<<<<< Updated upstream
 <<<<<<< HEAD
       "version": 511,
       "versionNonce": 908562620,
+=======
+      "version": 1251,
+      "versionNonce": 640967397,
+>>>>>>> Stashed changes
       "isDeleted": false,
       "boundElements": [],
-      "updated": 1771196733060,
+      "updated": 1771364475498,
       "link": null,
       "locked": false,
+<<<<<<< Updated upstream
       "text": "Message Broker",
       "fontSize": 16.2869140625,
 =======
@@ -3487,13 +4210,20 @@
       "text": "Message Broker (Kafka)",
       "fontSize": 16.666484917534728,
 >>>>>>> cfd0510 (Updated system diagram)
+=======
+      "text": "Message Broker (Kafka)",
+      "fontSize": 16.666484917534728,
+>>>>>>> Stashed changes
       "fontFamily": 5,
       "textAlign": "left",
       "verticalAlign": "top",
       "containerId": null,
+<<<<<<< Updated upstream
 <<<<<<< HEAD
       "originalText": "Message Broker",
 =======
+=======
+>>>>>>> Stashed changes
       "originalText": "Message Broker (Kafka)",
       "autoResize": false,
       "lineHeight": 1.25
@@ -3571,11 +4301,15 @@
       "verticalAlign": "middle",
       "containerId": "0odPLEiCL1QEEcBAv4pbw",
       "originalText": "OpenAI\n(API)",
+<<<<<<< Updated upstream
 >>>>>>> cfd0510 (Updated system diagram)
+=======
+>>>>>>> Stashed changes
       "autoResize": true,
       "lineHeight": 1.25
     },
     {
+<<<<<<< Updated upstream
 <<<<<<< HEAD
       "id": "aZDgrqMOVnFU4eaz94Nlh",
       "type": "line",
@@ -3644,6 +4378,70 @@
     {
       "id": "ZzEW5ybmlD3M14el3cPNJ",
       "type": "line",
+=======
+      "id": "U1C672rNYeiRprMppH3oD",
+      "type": "rectangle",
+      "x": 1166.7245968001985,
+      "y": 198.09961741906153,
+      "width": 142.35526216947116,
+      "height": 72.9276839588839,
+      "angle": 0,
+      "strokeColor": "#868e96",
+      "backgroundColor": "#e9ecef",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "b6i",
+      "roundness": {
+        "type": 3
+      },
+      "seed": 1088532965,
+      "version": 1582,
+      "versionNonce": 346487723,
+      "isDeleted": false,
+      "boundElements": [],
+      "updated": 1771363607116,
+      "link": null,
+      "locked": false
+    },
+    {
+      "id": "cDoUJXhtNw8H9yGyBwKx1",
+      "type": "rectangle",
+      "x": 1058.022674952921,
+      "y": 96.98436498099205,
+      "width": 36.253540039062486,
+      "height": 22.787643432617188,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "#b2f2bb",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "b6n",
+      "roundness": {
+        "type": 3
+      },
+      "seed": 1171042827,
+      "version": 1201,
+      "versionNonce": 1177097797,
+      "isDeleted": false,
+      "boundElements": [],
+      "updated": 1771363796573,
+      "link": null,
+      "locked": false
+    },
+    {
+      "id": "ZzEW5ybmlD3M14el3cPNJ",
+      "type": "line",
+>>>>>>> Stashed changes
       "x": 1059.2664155324114,
       "y": 99.24523282916417,
       "width": 16.202080636221027,
@@ -4934,7 +5732,10 @@
       "type": "line",
       "x": 867.2883475208045,
       "y": 103.01652161680886,
+<<<<<<< Updated upstream
 >>>>>>> cfd0510 (Updated system diagram)
+=======
+>>>>>>> Stashed changes
       "width": 11.147529136766025,
       "height": 68.73794670391794,
       "angle": 0,
@@ -4947,16 +5748,21 @@
       "opacity": 100,
       "groupIds": [],
       "frameId": null,
+<<<<<<< Updated upstream
 <<<<<<< HEAD
       "index": "b6X",
+=======
+      "index": "b89",
+>>>>>>> Stashed changes
       "roundness": {
         "type": 2
       },
-      "seed": 1212866804,
-      "version": 319,
-      "versionNonce": 1645413436,
+      "seed": 1152777867,
+      "version": 1048,
+      "versionNonce": 747717579,
       "isDeleted": false,
       "boundElements": [],
+<<<<<<< Updated upstream
       "updated": 1771196747420,
 =======
       "index": "b89",
@@ -4970,6 +5776,9 @@
       "boundElements": [],
       "updated": 1771364109083,
 >>>>>>> cfd0510 (Updated system diagram)
+=======
+      "updated": 1771364109083,
+>>>>>>> Stashed changes
       "link": null,
       "locked": false,
       "points": [
@@ -5001,6 +5810,7 @@
       "polygon": false
     },
     {
+<<<<<<< Updated upstream
 <<<<<<< HEAD
       "id": "dHUCbGk9Hu8y61HwY-Nnm",
       "type": "rectangle",
@@ -5068,6 +5878,12 @@
       "x": 702.4479104217463,
       "y": 105.16671999506505,
 >>>>>>> cfd0510 (Updated system diagram)
+=======
+      "id": "VOPJzyNCuGoVX6aK62v0i",
+      "type": "ellipse",
+      "x": 702.4479104217463,
+      "y": 105.16671999506505,
+>>>>>>> Stashed changes
       "width": 17.75130462646483,
       "height": 70.93776673537035,
       "angle": 0,
@@ -5080,16 +5896,21 @@
       "opacity": 100,
       "groupIds": [],
       "frameId": null,
+<<<<<<< Updated upstream
 <<<<<<< HEAD
       "index": "b6c",
+=======
+      "index": "b8A",
+>>>>>>> Stashed changes
       "roundness": {
         "type": 2
       },
-      "seed": 636988148,
-      "version": 611,
-      "versionNonce": 700115644,
+      "seed": 1647047979,
+      "version": 1311,
+      "versionNonce": 1152045669,
       "isDeleted": false,
       "boundElements": [],
+<<<<<<< Updated upstream
       "updated": 1771196790873,
 =======
       "index": "b8A",
@@ -5103,10 +5924,14 @@
       "boundElements": [],
       "updated": 1771364629348,
 >>>>>>> cfd0510 (Updated system diagram)
+=======
+      "updated": 1771364629348,
+>>>>>>> Stashed changes
       "link": null,
       "locked": false
     },
     {
+<<<<<<< Updated upstream
 <<<<<<< HEAD
       "id": "ogXU5o4yb2l8E0hCQnzJV",
       "type": "rectangle",
@@ -5114,10 +5939,109 @@
       "y": 226.281104669335,
       "width": 100.34327189127588,
       "height": 18.359375,
+=======
+      "id": "hKqjwedTuj_B2fGnleFf8",
+      "type": "line",
+      "x": 713.3313837388047,
+      "y": 174.15411982227172,
+      "width": 154.76413285104854,
+      "height": 1.03861838892891,
+>>>>>>> Stashed changes
       "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "b8B",
+      "roundness": {
+        "type": 2
+      },
+      "seed": 1458182091,
+      "version": 1125,
+      "versionNonce": 1605710763,
+      "isDeleted": false,
+      "boundElements": [],
+      "updated": 1771364109083,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          154.76413285104854,
+          1.03861838892891
+        ]
+      ],
+      "startBinding": null,
+      "endBinding": null,
+      "startArrowhead": null,
+      "endArrowhead": null,
+      "polygon": false
+    },
+    {
+      "id": "Yb0bBDy6HnL5vfMQEi0-H",
+      "type": "line",
+      "x": 713.7361009287989,
+      "y": 105.04703020321145,
+      "width": 153.2680292583649,
+      "height": 0.7583643595377225,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "b8C",
+      "roundness": {
+        "type": 2
+      },
+      "seed": 1864217579,
+      "version": 1044,
+      "versionNonce": 2110228043,
+      "isDeleted": false,
+      "boundElements": [],
+      "updated": 1771364109083,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          153.2680292583649,
+          0.7583643595377225
+        ]
+      ],
+      "startBinding": null,
+      "endBinding": null,
+      "startArrowhead": null,
+      "endArrowhead": null,
+      "polygon": false
+    },
+    {
+      "id": "eW4WTvd6fQklxCVypoKPd",
+      "type": "rectangle",
+      "x": 712.3413835220363,
+      "y": 203.70758136485753,
+      "width": 161.6569367546212,
+      "height": 71.09031340655163,
+      "angle": 6.278086915843218,
       "strokeColor": "transparent",
       "backgroundColor": "#ffa94d",
       "fillStyle": "solid",
+<<<<<<< Updated upstream
       "strokeWidth": 1,
 =======
       "id": "hKqjwedTuj_B2fGnleFf8",
@@ -5222,11 +6146,15 @@
       "fillStyle": "solid",
       "strokeWidth": 2,
 >>>>>>> cfd0510 (Updated system diagram)
+=======
+      "strokeWidth": 2,
+>>>>>>> Stashed changes
       "strokeStyle": "solid",
       "roughness": 0,
       "opacity": 100,
       "groupIds": [],
       "frameId": null,
+<<<<<<< Updated upstream
 <<<<<<< HEAD
       "index": "b6d",
       "roundness": null,
@@ -5246,6 +6174,17 @@
       "versionNonce": 935881893,
       "isDeleted": false,
       "boundElements": [],
+=======
+      "index": "b8R",
+      "roundness": {
+        "type": 3
+      },
+      "seed": 35481669,
+      "version": 1790,
+      "versionNonce": 935881893,
+      "isDeleted": false,
+      "boundElements": [],
+>>>>>>> Stashed changes
       "updated": 1771363174119,
       "link": null,
       "locked": false
@@ -6070,24 +7009,33 @@
       "isDeleted": false,
       "boundElements": [],
       "updated": 1771364951114,
+<<<<<<< Updated upstream
 >>>>>>> cfd0510 (Updated system diagram)
+=======
+>>>>>>> Stashed changes
       "link": null,
       "locked": false
     },
     {
       "id": "CkIa5yCGJ8t-IhRLrEPZ8",
       "type": "arrow",
+<<<<<<< Updated upstream
 <<<<<<< HEAD
       "x": 632.3613061908485,
       "y": 429.5563381759878,
       "width": 117.43310597252457,
       "height": 185.76303128922754,
 =======
+=======
+>>>>>>> Stashed changes
       "x": 715.282198831663,
       "y": 396.75947922863406,
       "width": 80.50392575454828,
       "height": 98.22684544765019,
+<<<<<<< Updated upstream
 >>>>>>> cfd0510 (Updated system diagram)
+=======
+>>>>>>> Stashed changes
       "angle": 0,
       "strokeColor": "#868e96",
       "backgroundColor": "transparent",
@@ -6098,15 +7046,20 @@
       "opacity": 100,
       "groupIds": [],
       "frameId": null,
+<<<<<<< Updated upstream
 <<<<<<< HEAD
       "index": "b6dV",
 =======
       "index": "b8oV",
 >>>>>>> cfd0510 (Updated system diagram)
+=======
+      "index": "b8oV",
+>>>>>>> Stashed changes
       "roundness": {
         "type": 2
       },
       "seed": 286528947,
+<<<<<<< Updated upstream
 <<<<<<< HEAD
       "version": 1832,
       "versionNonce": 387191909,
@@ -6120,6 +7073,13 @@
       "boundElements": [],
       "updated": 1771364979230,
 >>>>>>> cfd0510 (Updated system diagram)
+=======
+      "version": 3715,
+      "versionNonce": 1028615685,
+      "isDeleted": false,
+      "boundElements": [],
+      "updated": 1771364979230,
+>>>>>>> Stashed changes
       "link": null,
       "locked": false,
       "points": [
@@ -6128,6 +7088,7 @@
           0
         ],
         [
+<<<<<<< Updated upstream
 <<<<<<< HEAD
           2.653323738471954,
           -81.60886866936005
@@ -6143,6 +7104,14 @@
           -49.802266728272116,
           -98.22684544765019
 >>>>>>> cfd0510 (Updated system diagram)
+=======
+          -80.50392575454828,
+          -50.02244609623864
+        ],
+        [
+          -49.802266728272116,
+          -98.22684544765019
+>>>>>>> Stashed changes
         ]
       ],
       "startBinding": {
@@ -6154,6 +7123,7 @@
         ]
       },
       "endBinding": {
+<<<<<<< Updated upstream
 <<<<<<< HEAD
         "elementId": "neqj7GBQmBRpSq-zlTFoP",
         "mode": "orbit",
@@ -6167,6 +7137,13 @@
           0.04887466338798626,
           0.951125336612013
 >>>>>>> cfd0510 (Updated system diagram)
+=======
+        "elementId": "nUC3ejXP4LDpzX4n8TUNN",
+        "mode": "orbit",
+        "fixedPoint": [
+          0.04887466338798626,
+          0.951125336612013
+>>>>>>> Stashed changes
         ]
       },
       "startArrowhead": null,
@@ -6175,6 +7152,7 @@
       "moveMidPointsWithElement": false
     },
     {
+<<<<<<< Updated upstream
 <<<<<<< HEAD
       "id": "neqj7GBQmBRpSq-zlTFoP",
       "type": "text",
@@ -6743,11 +7721,18 @@
 =======
       "id": "62LYpVWuDUvFOzpWW1agF",
       "type": "arrow",
+=======
+      "id": "62LYpVWuDUvFOzpWW1agF",
+      "type": "arrow",
+>>>>>>> Stashed changes
       "x": 383.33698180390206,
       "y": 340.95715019827446,
       "width": 0.15232278716206338,
       "height": 51.34825934044511,
+<<<<<<< Updated upstream
 >>>>>>> cfd0510 (Updated system diagram)
+=======
+>>>>>>> Stashed changes
       "angle": 0,
       "strokeColor": "#1e1e1e",
       "backgroundColor": "#a5d8ff",
@@ -6758,16 +7743,21 @@
       "opacity": 100,
       "groupIds": [],
       "frameId": null,
+<<<<<<< Updated upstream
 <<<<<<< HEAD
       "index": "b78",
+=======
+      "index": "b8p",
+>>>>>>> Stashed changes
       "roundness": {
         "type": 2
       },
-      "seed": 1882861157,
-      "version": 1155,
-      "versionNonce": 84391179,
+      "seed": 464083060,
+      "version": 1408,
+      "versionNonce": 1632782891,
       "isDeleted": false,
       "boundElements": [],
+<<<<<<< Updated upstream
       "updated": 1771352709140,
 =======
       "index": "b8p",
@@ -6781,6 +7771,9 @@
       "boundElements": [],
       "updated": 1771364953263,
 >>>>>>> cfd0510 (Updated system diagram)
+=======
+      "updated": 1771364953263,
+>>>>>>> Stashed changes
       "link": null,
       "locked": false,
       "points": [
@@ -6789,6 +7782,7 @@
           0
         ],
         [
+<<<<<<< Updated upstream
 <<<<<<< HEAD
           73.45584702106737,
           1.1196626327238448
@@ -6849,6 +7843,10 @@
           0.15232278716206338,
           51.34825934044511
 >>>>>>> cfd0510 (Updated system diagram)
+=======
+          0.15232278716206338,
+          51.34825934044511
+>>>>>>> Stashed changes
         ]
       ],
       "startBinding": null,
@@ -6859,6 +7857,7 @@
       "moveMidPointsWithElement": false
     },
     {
+<<<<<<< Updated upstream
 <<<<<<< HEAD
       "id": "1MyfNguo0XZXFq4v9Luhn",
       "type": "arrow",
@@ -6880,6 +7879,17 @@
       "strokeColor": "#1e1e1e",
       "backgroundColor": "transparent",
 >>>>>>> cfd0510 (Updated system diagram)
+=======
+      "id": "7GiyW3QJFQAbnjKpSIJ1q",
+      "type": "line",
+      "x": 426.82940778822024,
+      "y": 411.8349404230221,
+      "width": 2.034815755107445,
+      "height": 83.10760288361013,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+>>>>>>> Stashed changes
       "fillStyle": "solid",
       "strokeWidth": 2,
       "strokeStyle": "solid",
@@ -6887,6 +7897,7 @@
       "opacity": 100,
       "groupIds": [],
       "frameId": null,
+<<<<<<< Updated upstream
 <<<<<<< HEAD
       "index": "b7A",
       "roundness": null,
@@ -6998,14 +8009,18 @@
       "groupIds": [],
       "frameId": null,
       "index": "b7C",
+=======
+      "index": "b8r",
+>>>>>>> Stashed changes
       "roundness": {
         "type": 2
       },
-      "seed": 969509995,
-      "version": 879,
-      "versionNonce": 1633080389,
+      "seed": 1627716651,
+      "version": 957,
+      "versionNonce": 1168731557,
       "isDeleted": false,
       "boundElements": [],
+<<<<<<< Updated upstream
       "updated": 1771352396939,
 =======
       "index": "b8r",
@@ -7019,6 +8034,9 @@
       "boundElements": [],
       "updated": 1771365560112,
 >>>>>>> cfd0510 (Updated system diagram)
+=======
+      "updated": 1771365560112,
+>>>>>>> Stashed changes
       "link": null,
       "locked": false,
       "points": [
@@ -7027,6 +8045,7 @@
           0
         ],
         [
+<<<<<<< Updated upstream
 <<<<<<< HEAD
           56.826664851262194,
           0.732168676877194
@@ -7034,144 +8053,34 @@
           2.034815755107445,
           83.10760288361013
 >>>>>>> cfd0510 (Updated system diagram)
+=======
+          2.034815755107445,
+          83.10760288361013
+>>>>>>> Stashed changes
         ]
       ],
       "startBinding": null,
       "endBinding": null,
       "startArrowhead": null,
+<<<<<<< Updated upstream
 <<<<<<< HEAD
       "endArrowhead": "arrow",
       "elbowed": false,
       "moveMidPointsWithElement": false
+=======
+      "endArrowhead": null,
+      "polygon": false
+>>>>>>> Stashed changes
     },
     {
-      "id": "SvHb_DRezgi8f8eDCJy3b",
-      "type": "arrow",
-      "x": 1023.269852548998,
-      "y": 370.4836292130985,
-      "width": 56.826664851262194,
-      "height": 0.732168676877194,
-      "angle": 0,
-      "strokeColor": "#1e1e1e",
-      "backgroundColor": "#a5d8ff",
-      "fillStyle": "solid",
-      "strokeWidth": 2,
-      "strokeStyle": "solid",
-      "roughness": 1,
-      "opacity": 100,
-      "groupIds": [],
-      "frameId": null,
-      "index": "b7D",
-      "roundness": {
-        "type": 2
-      },
-      "seed": 1011793995,
-      "version": 857,
-      "versionNonce": 417008779,
-      "isDeleted": false,
-      "boundElements": [],
-      "updated": 1771352392639,
-      "link": null,
-      "locked": false,
-      "points": [
-        [
-          0,
-          0
-        ],
-        [
-          56.826664851262194,
-          0.732168676877194
-        ]
-      ],
-      "startBinding": null,
-      "endBinding": null,
-      "startArrowhead": null,
-      "endArrowhead": "arrow",
-      "elbowed": false,
-      "moveMidPointsWithElement": false
-    },
-    {
-      "id": "J-RCSPwPYnlCpFFryAm-J",
-      "type": "text",
-      "x": 940.6515641276093,
-      "y": 103.99020734156835,
-      "width": 105.13511657714844,
-      "height": 16.462053571428562,
-      "angle": 0,
-      "strokeColor": "#343a40",
-      "backgroundColor": "transparent",
-      "fillStyle": "solid",
-      "strokeWidth": 1,
-      "strokeStyle": "solid",
-      "roughness": 2,
-      "opacity": 100,
-      "groupIds": [],
-      "frameId": null,
-      "index": "b7E",
-      "roundness": null,
-      "seed": 1632837221,
-      "version": 480,
-      "versionNonce": 763930341,
-      "isDeleted": false,
-      "boundElements": [],
-      "updated": 1771352412055,
-      "link": null,
-      "locked": false,
-      "text": "<<UsageEvent>>",
-      "fontSize": 13.169642857142849,
-      "fontFamily": 5,
-      "textAlign": "left",
-      "verticalAlign": "top",
-      "containerId": null,
-      "originalText": "<<UsageEvent>>",
-      "autoResize": true,
-      "lineHeight": 1.25
-    },
-    {
-      "id": "zANRy7CHGQMBZzaZ3Pv1K",
-      "type": "text",
-      "x": 942.5060156250051,
-      "y": 380.97290896103453,
-      "width": 105.13511657714844,
-      "height": 16.462053571428562,
-      "angle": 0,
-      "strokeColor": "#343a40",
-      "backgroundColor": "transparent",
-      "fillStyle": "solid",
-      "strokeWidth": 1,
-      "strokeStyle": "solid",
-      "roughness": 2,
-      "opacity": 100,
-      "groupIds": [],
-      "frameId": null,
-      "index": "b7F",
-      "roundness": null,
-      "seed": 2115891621,
-      "version": 458,
-      "versionNonce": 1408955365,
-      "isDeleted": false,
-      "boundElements": [],
-      "updated": 1771352417055,
-      "link": null,
-      "locked": false,
-      "text": "<<UsageEvent>>",
-      "fontSize": 13.169642857142849,
-      "fontFamily": 5,
-      "textAlign": "left",
-      "verticalAlign": "top",
-      "containerId": null,
-      "originalText": "<<UsageEvent>>",
-      "autoResize": true,
-      "lineHeight": 1.25
-    },
-    {
-      "id": "lAPEU56CvRbOZnw9MregV",
+      "id": "-aP1mXE3yJBjy3w1yRNKc",
       "type": "rectangle",
-      "x": 1096.1640177121988,
-      "y": 322.8713845148894,
-      "width": 142.35526216947116,
-      "height": 82.61992435601934,
+      "x": 335.5052655080742,
+      "y": 411.2160765480852,
+      "width": 91.23134057206244,
+      "height": 95.8719403347967,
       "angle": 0,
+<<<<<<< Updated upstream
       "strokeColor": "#868e96",
       "backgroundColor": "#e9ecef",
       "fillStyle": "solid",
@@ -7414,6 +8323,10 @@
       "strokeColor": "transparent",
       "backgroundColor": "#ff8787",
 >>>>>>> cfd0510 (Updated system diagram)
+=======
+      "strokeColor": "transparent",
+      "backgroundColor": "#ff8787",
+>>>>>>> Stashed changes
       "fillStyle": "solid",
       "strokeWidth": 2,
       "strokeStyle": "solid",
@@ -7421,19 +8334,105 @@
       "opacity": 100,
       "groupIds": [],
       "frameId": null,
+<<<<<<< Updated upstream
 <<<<<<< HEAD
       "index": "b7N",
       "roundness": null,
       "seed": 88148357,
       "version": 229,
       "versionNonce": 970634891,
+=======
+      "index": "b8u",
+      "roundness": {
+        "type": 3
+      },
+      "seed": 1290419851,
+      "version": 643,
+      "versionNonce": 628183749,
+>>>>>>> Stashed changes
       "isDeleted": false,
-      "boundElements": [
-        {
-          "id": "zjssUXSqRUT3u8JwjoVmP",
-          "type": "arrow"
-        }
+      "boundElements": null,
+      "updated": 1771365743427,
+      "link": null,
+      "locked": false
+    },
+    {
+      "id": "fZsYeZwbr0iOK8v_k0yI7",
+      "type": "text",
+      "x": 345.8495071608676,
+      "y": 432.9879285928499,
+      "width": 73.95634460449219,
+      "height": 35.34498419075167,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "b8v",
+      "roundness": null,
+      "seed": 1823148148,
+      "version": 565,
+      "versionNonce": 1592102949,
+      "isDeleted": false,
+      "boundElements": [],
+      "updated": 1771365694327,
+      "link": null,
+      "locked": false,
+      "text": "    DB\n(Postgres)",
+      "fontSize": 14.137993676300667,
+      "fontFamily": 5,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "originalText": "    DB\n(Postgres)",
+      "autoResize": true,
+      "lineHeight": 1.25
+    },
+    {
+      "id": "acKbxNn3XC6USlWUpwN7u",
+      "type": "line",
+      "x": 334.9702332754418,
+      "y": 411.1680498564159,
+      "width": 1.9640377244947445,
+      "height": 79.15076994942677,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "b8y",
+      "roundness": {
+        "type": 2
+      },
+      "seed": 1428500235,
+      "version": 873,
+      "versionNonce": 1164657861,
+      "isDeleted": false,
+      "boundElements": [],
+      "updated": 1771365691286,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          1.9640377244947445,
+          79.15076994942677
+        ]
       ],
+<<<<<<< Updated upstream
       "updated": 1771353071015,
 =======
       "index": "b8u",
@@ -7525,6 +8524,8 @@
           79.15076994942677
         ]
       ],
+=======
+>>>>>>> Stashed changes
       "startBinding": null,
       "endBinding": null,
       "startArrowhead": null,
@@ -7615,7 +8616,10 @@
       "isDeleted": false,
       "boundElements": [],
       "updated": 1771365782711,
+<<<<<<< Updated upstream
 >>>>>>> cfd0510 (Updated system diagram)
+=======
+>>>>>>> Stashed changes
       "link": null,
       "locked": false
     }

@@ -6,19 +6,31 @@ A production-style subscription management platform demonstrating event-driven m
 
 ![System Diagram](docs/system_diagram.png)
 
-## Start Dependencies
+## Start dependencies
+* postgres
+* kafka ( in KRaft mode )
+* suscription-insight-service
+```bash
+docker compose up --build
+```
+
+
+
+## Check services are up
+
+
+http://localhost:8080/actuator/health
+
+
+## Shut down
+```bash
+ctrl + c
+```
+```bash
+docker compose down
+```
+
+## Subsequent start up
 ```bash
 docker compose up -d
-```
-
-## Configure env variables (mac)
-```bash
-export DB_URL=jdbc:postgresql://localhost:5432/subscriptiondb
-export DB_USER=postgres
-export DB_PASSWORD=postgres
-```
-
-## Start service
-```bash
-./mvnw spring-boot:run
 ```

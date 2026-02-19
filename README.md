@@ -15,11 +15,14 @@ docker compose up --build
 ```
 
 
-
-## Check service is up
-
+## Check services are up
 
 http://localhost:8080/actuator/health
+
+
+## Swagger UI
+
+http://localhost:8080/swagger-ui.html
 
 
 ## Shut down

@@ -6,7 +6,7 @@ A production-style subscription management platform demonstrating event-driven m
 
 ![System Diagram](docs/system_diagram.png)
 
-## Start dependencies
+## Start up service & dependencies
 * postgres
 * kafka ( in KRaft mode )
 * suscription-insight-service
@@ -16,7 +16,7 @@ docker compose up --build
 
 
 
-## Check services are up
+## Check service is up
 
 
 http://localhost:8080/actuator/health
